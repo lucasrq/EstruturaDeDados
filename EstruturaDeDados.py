@@ -76,4 +76,4 @@ filmes = {
     }
 }
 
-print("sd \n".format(filmes))
+print(filmes)
